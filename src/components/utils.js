@@ -1,8 +1,8 @@
 const bool2text = function (bool) {
   if (bool) {
-    return "T";
+    return "H";
   } else {
-    return "F";
+    return "L";
   }
 };
 
