@@ -117,7 +117,7 @@ class App extends Component {
       <div className="app">
         <div className="head">
           <div>
-            <h1>Logic gate simulator</h1>
+            <h1>Logic gate's simulator</h1>
           </div>
           <Selector
             changeGateNumber={this.changeGateNumber}
